@@ -1,0 +1,4 @@
+置換前->置換後
+system->SYSTEM
+responses->RESPONSES
+robot->MACHINE

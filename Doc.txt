@@ -1,0 +1,21 @@
+In human robot conversation in a real environment, low 
+speech recognition and unnatural response generation 
+are critical issues. Most of autonomous conversational 
+robotic systems avoid these issues by restricting user 
+input and robot responses. However, such restrictions 
+often make the interaction be boring because they are 
+easy to predict a plot for a conversation.This paper 
+proposes using multiple robots as a solution of this 
+problem. To explore the effect of multiple robots on a 
+conversation, we developed an autonomous 
+conversational robotic system and conducted a field trial 
+in a real event. Our system adopted a button interface 
+which restrict user input within positive or negative 
+intention and proceeded a conversation by choosing 
+proper one of prepared static scenarios. Through the field 
+trial, we found that visitors who conversed with multiple 
+robots continued their conversation longer and more 
+improved their impression of the conversation than those 
+who conversed with single robot. The findings will 
+contribute to the practical application such as advertising 
+companion robots or educational robots in school.
